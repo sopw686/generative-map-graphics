@@ -1,5 +1,5 @@
 # Generative Map Graphics
-A collection of sketches that produce variations on a basic landscape map written with the Processing graphics library (Java).
+A collection of sketches that produce variations on a basic landscape map. Written with the Processing graphics library (Java).
 
 These interactive, simulation maps create digital visualizations of the human exploitation of land. Built from Perlin noise maps, each graphic draws on the aesthetics of a different land-altering phenomena to create images that morph beyond the recognition of anything natural.
 
